@@ -1,0 +1,16 @@
+{"pages": [
+    {
+        "text": "No. It is not",
+        "prompt": {
+            "question": "Is it ever beneficial to follow the beliefs of the majority?",
+            "topic": "Apology"
+        }
+    },
+    {
+        "text": "Yes",
+        "prompt": {
+            "question": "Do you agree that the best rulers are the ones who practice philosophy?",
+            "topic": "Republic 5-7"
+        }
+    }
+]}
